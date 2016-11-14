@@ -16,7 +16,7 @@ source for Omnifood Delivery Service fictional site
 
 ## On how it works I learned:
 * How to draw circles with CSS
-* Cool technique to create separation between sections
+* Cool technique to create separation between sections (clearfix)
 * Incorporate play store and app store button
 
 ### New things I learned from the entire course:
@@ -27,3 +27,7 @@ source for Omnifood Delivery Service fictional site
 * How to use emmet shorthand and do work faster
 * Using Ionicons
 * What normalize css and grid css does
+* clearfix technique!
+
+#### Things noted
+* Use clearfix on the parent of the element with float property
