@@ -1,5 +1,9 @@
 # omnifood
-source for Omnifood Delivery Service fictional site
+This is my source code for Omnifood Delivery Service fictional site.
+This is a one page website created to taught me how a pro developer did stuff.
+I followed [this Udemy course](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3) to create this.
+
+It really helped me to transition from a beginner to a professional!
 
 ## On header section I learned:
 * HTML elements for the header and navigation : header, nav, ul,li
@@ -33,6 +37,10 @@ source for Omnifood Delivery Service fictional site
 * How to create beautiful bg image effect (bg attachment fixed)
 * How to communicate customer testimonial
 
+## On sign-up section I learned:
+* Design with border radius
+* Box shadow from Google material design
+
 ------------------------------------------------
 
 
@@ -45,6 +53,10 @@ source for Omnifood Delivery Service fictional site
 * Using Ionicons
 * What normalize css and grid css does
 * clearfix technique!
+* semantics best practice and industry standard
+* Using Emmet HTML and CSS workflow
 
 #### Things noted
 * Use clearfix on the parent of the element with float property
+* Emmet syntax make workflow faster
+* Indent properly for every tag
