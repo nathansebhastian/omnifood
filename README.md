@@ -19,6 +19,15 @@ source for Omnifood Delivery Service fictional site
 * Cool technique to create separation between sections (clearfix)
 * Incorporate play store and app store button
 
+## On cities section I learned:
+* How to use small icons aligned with text
+* How to style generic links
+
+
+
+------------------------------------------------
+
+
 ### New things I learned from the entire course:
 * Using CSS the right way: using box-sizing:border-box is one of them
 * Display: inline and block and inline-block
