@@ -2,7 +2,13 @@
 source for Omnifood Delivery Service fictional site
 
 ## On header section I learned:
-
+* HTML elements for the header and navigation : header, nav, ul,li
+* Make bg image
+* How to make an image as high as the viewport of browsers
+* Making horizontally and vertically centered box for hero area
+* Designing buttons
+* The link states: link, visited, hover, active
+* CSS3 transitions
 
 ## On Feature section I learned:
 * How to put content directly from css with :after pseudo-class the hr after title
@@ -23,7 +29,9 @@ source for Omnifood Delivery Service fictional site
 * How to use small icons aligned with text
 * How to style generic links
 
-
+## On customer testimonials section I learned:
+* How to create beautiful bg image effect (bg attachment fixed)
+* How to communicate customer testimonial
 
 ------------------------------------------------
 
