@@ -39,7 +39,10 @@ It really helped me to transition from a beginner to a professional!
 
 ## On sign-up section I learned:
 * Design with border radius
-* Box shadow from Google material design
+* Box shadow to create Google Material Design appearance
+
+## On contact form I learned:
+* Creating semantically correct contact form and style it
 
 ------------------------------------------------
 
