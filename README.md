@@ -48,6 +48,12 @@ It really helped me to transition from a beginner to a professional!
 * Simple and effective footer
 * A cool way of using social icons
 
+## After the content, I make it responsive on breakpoints:
+* Popular device breakpoint state is 480px, 768px, 1024px
+* change from wider to smaller
+* Use live preview of brackets to make things easier
+
+
 ------------------------------------------------
 
 
