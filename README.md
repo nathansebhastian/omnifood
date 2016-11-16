@@ -44,6 +44,10 @@ It really helped me to transition from a beginner to a professional!
 ## On contact form I learned:
 * Creating semantically correct contact form and style it
 
+## On Footer I learned:
+* Simple and effective footer
+* A cool way of using social icons
+
 ------------------------------------------------
 
 
