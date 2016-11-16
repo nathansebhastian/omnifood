@@ -68,8 +68,11 @@ It really helped me to transition from a beginner to a professional!
 * clearfix technique!
 * semantics best practice and industry standard
 * Using Emmet HTML and CSS workflow
+* Using prefixes for cross browser consistencies
+
 
 #### Things noted
 * Use clearfix on the parent of the element with float property
 * Emmet syntax make workflow faster
 * Indent properly for every tag
+* 3scripts for older browser from jsdelivr.com like respond, html5shiv, and selectivizr
