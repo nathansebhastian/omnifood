@@ -83,4 +83,5 @@ It really helped me to transition from a beginner to a professional!
 * Use clearfix on the parent of the element with float property
 * Emmet syntax make workflow faster
 * Indent properly for every tag
-* 3scripts for older browser from jsdelivr.com like respond, html5shiv, and selectivizr
+* 3 scripts for older browser from jsdelivr.com like respond, html5shiv, and selectivizr
+* Optimize image and css/js files
