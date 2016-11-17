@@ -9,6 +9,7 @@
   <link rel="stylesheet" type="text/css" href="vendors/css/ionicons.min.css">
   <link rel="stylesheet" type="text/css" href="res/css/style.css">
   <link rel="stylesheet" type="text/css" href="res/css/queries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
   <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400" rel="stylesheet">
   <title>Omnifood</title>
 </head>
@@ -18,22 +19,24 @@
     <nav>
       <div class="row">
         <img src="res/img/logo-white.png" alt="Omnifood logo" class="logo">
-        <ul class="main-nav">
-          <li><a href="#">Food delivery</a></li>
-          <li><a href="#">How it works</a></li>
-          <li><a href="#">Our cities</a></li>
-          <li><a href="#">Sign up</a></li>
+        <img src="res/img/logo.png" alt="Omnifood logo" class="logo-black">
+        <ul class="main-nav js--main-nav">
+          <li><a href="#features">Food delivery</a></li>
+          <li><a href="#works">How it works</a></li>
+          <li><a href="#cities">Our cities</a></li>
+          <li><a href="#plans">Sign up</a></li>
         </ul>
+        <a class="mobile-nav-icon js--mobile-nav"><i class="ion-navicon-round"></i></a>
       </div>
     </nav>
     <div class="hero-text-box">
       <h1>Goodbye junk food.<br>Hello super healthy meals.</h1>
-      <a class="btn btn-full" href="#">I'm hungry</a>
-      <a class="btn btn-ghost" href="#">Show me more</a>
+      <a class="btn btn-full js--scroll-to-plans" href="#">I'm hungry</a>
+      <a class="btn btn-ghost js--scroll-to-start" href="#">Show me more</a>
     </div>
   </header>
 
-  <section class="section-features">
+  <section class="section-features js--section-features" id="features">
     <div class="row">
       <h2>Get food fast &mdash; not fast food</h2>
       <p class="long-copy">
@@ -41,7 +44,7 @@
       </p>
     </div>
 
-    <div class="row">
+    <div class="row js--wp-1">
       <div class="col span-1-of-4 feature-box">
         <i class="ion-ios-infinite-outline icon-big"></i>
         <h3>Up to 365 days/year</h3>
@@ -120,13 +123,13 @@
     </ul>
   </section>
 
-  <section class="section-steps">
+  <section class="section-steps" id="works">
     <div class="row">
       <h2>How it works &mdash; Simple as 1, 2, 3</h2>
     </div>
     <div class="row">
       <div class="col span-1-of-2 steps-box">
-        <img src="res/img/app-iPhone.png" alt="Omnifood app on iPhone" class="app-screen">
+        <img src="res/img/app-iPhone.png" alt="Omnifood app on iPhone" class="app-screen js--wp-2">
       </div>
       <div class="col span-1-of-2 steps-box">
         <div class="works-step">
@@ -148,11 +151,11 @@
     </div>
   </section>
 
-  <section class="section-cities">
+  <section class="section-cities" id="cities">
     <div class="row">
       <h2>We're currently in these cities</h2>
     </div>
-    <div class="row">
+    <div class="row js--wp-3">
       <div class="col span-1-of-4 city-box">
         <img src="res/img/lisbon-3.jpg" alt="Lisbon">
         <h3>Lisbon</h3>
@@ -238,13 +241,13 @@
     </div>
   </section>
 
-  <section class="section-plans">
+  <section class="section-plans js--section-plans" id="plans">
     <div class="row">
       <h2>Start eating healthy today</h2>
     </div>
     <div class="row">
       <div class="col span-1-of-3">
-        <div class="plan-box">
+        <div class="plan-box js--wp-4">
           <div>
             <h3>Premium</h3>
             <p class="plan-price">$399 <span>/ month</span></p>
@@ -264,7 +267,7 @@
         </div>
       </div>
       <div class="col span-1-of-3">
-        <div class="plan-box">
+        <div class="plan-box js--wp-4">
           <div>
             <h3>Pro</h3>
             <p class="plan-price">$149 <span>/ month</span></p>
@@ -284,7 +287,7 @@
         </div>
       </div>
       <div class="col span-1-of-3">
-        <div class="plan-box">
+        <div class="plan-box js--wp-4">
           <div>
             <h3>Starter</h3>
             <p class="plan-price">$19 <span>/ meal</span></p>
@@ -393,9 +396,11 @@
       </p>
     </div>
   </footer>
-</body>
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/g/respond@1.4.2,html5shiv@3.7.3,selectivizr@1.0.3b"></script>
+<script src="https://cdn.jsdelivr.net/jquery.waypoints/2.0.5/waypoints.min.js"></script>
+<script src="res/js/script.js"></script>
+</body>
 </html>
 
 <!--

@@ -53,6 +53,13 @@ It really helped me to transition from a beginner to a professional!
 * change from wider to smaller
 * Use live preview of brackets to make things easier
 
+## Using JQuery for some beautiful plugins:
+* Magnific Popup
+* Tooltipster
+* Maplace.js
+* Typer.js
+* One Page Scroll
+
 
 ------------------------------------------------
 
@@ -69,6 +76,7 @@ It really helped me to transition from a beginner to a professional!
 * semantics best practice and industry standard
 * Using Emmet HTML and CSS workflow
 * Using prefixes for cross browser consistencies
+* Stunning animations!
 
 
 #### Things noted
